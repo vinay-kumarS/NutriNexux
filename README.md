@@ -48,8 +48,8 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 ## DEPLOYMENT 🚀
 
 #### Deployment is done using [deploy](https://github.com/Gladiator07/Harvestify/tree/deploy) branch
-#### This website is deployed at [Heroku](https://www.heroku.com/)
-#### You can access it [here](https://harvestify.herokuapp.com/)
+#### This website is deployed at [Gitio Pages]
+#### You can access it [here]()
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 ## How to use 💻
@@ -136,8 +136,8 @@ This was my first big project so there are lot of things to improve upon
 This project is heavily inspired from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming)** (especially the crop recommendation and fertilizer recommendation part). This project is an extended version of the above mentioned project. Please star the mentioned repo.
 
 ## License 📝
-This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Gladiator07/Harvestify/blob/master/LICENSE).
+This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/advaith/NutriNexux/blob/master/LICENSE).
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/advaith05/)
